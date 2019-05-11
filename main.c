@@ -6,18 +6,14 @@
 /*   By: aymhabib <aymhabib@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/05/07 13:09:06 by aymhabib          #+#    #+#             */
-/*   Updated: 2019/05/11 02:16:17 by aymhabib         ###   ########.fr       */
+/*   Updated: 2019/05/11 05:06:19 by mel-idri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "get_next_line.h"
-#include "../get_next_line/libft/libft.h"
 #include <fcntl.h>
 #include <stdio.h>
 
-#include "get_next_line.h"
-#include <fcntl.h>
-#include <stdio.h>
 /*
 int		main(int argc, char **argv)
 {
